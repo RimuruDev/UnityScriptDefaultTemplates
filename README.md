@@ -98,4 +98,4 @@ public sealed class NewClass
 
 }
 ```
-# Please click the :star:  If you liked this solution.
+# Leave a ⭐ if you found it helpful!
